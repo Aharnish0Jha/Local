@@ -4,6 +4,9 @@ we can use 'git push -u origin main', the -u signifies that we will push all the
 GitHub -> Clone -> changes -> add -> commit -> push
 <h2>Git Branches</h2>
 git branch -M [branch name] : to rename branch
+<br>
 git checkout [branch name] : to navigate
+<br>
 git checkout -b [new branch name] : to cretae a new branch
+<br>
 git branch -d [branch name] : to delete branch 
